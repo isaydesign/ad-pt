@@ -1,3 +1,3 @@
 ready(function () {
-  alert('The DOM is ready!');
+  console.log('The DOM is ready!');
 });
